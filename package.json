@@ -1,0 +1,19 @@
+{
+  "name": "uzucoin-devnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^18.16.3",
+    "aptos": "^1.8.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

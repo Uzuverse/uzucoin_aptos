@@ -1,0 +1,7 @@
+node_modules/
+**/build/
+utils/
+ts-scripts/
+rpc/
+.env
+.aptos
